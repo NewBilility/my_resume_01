@@ -45,7 +45,8 @@ html {
 }
 
 @media (max-width: 768px) {
-    html {
+    * {
+        font-family: "Comic Sans MS", sans-serif;
         font-size: 14px;
     }
 }
